@@ -16,7 +16,7 @@ body {
 
 ul {
   display: flex;
-  align-items: middle;
+  align-items: center;
   margin: 10px 0 10px auto;
   width: 35vw;
   justify-content: space-around;
