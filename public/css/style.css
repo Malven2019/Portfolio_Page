@@ -16,7 +16,7 @@ body {
 
 ul {
   display: flex;
-  align-items: right;
+  align-items: middle;
   margin: 10px 0 10px auto;
   width: 35vw;
   justify-content: space-around;
@@ -47,7 +47,7 @@ p {
   background: #f1f3f2;
   min-height: 55vh;
   padding-top: 6vh;
-  text-align: center;
+  text-align: left;
   padding-bottom: 10px;
 }
 
@@ -55,7 +55,7 @@ p {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin: 10% 0 0 auto;
-  text-align: center;
+  text-align: left;
   font-size: 10px;
   width: 100%;
   grid-template-rows: auto;
@@ -89,7 +89,7 @@ p {
 }
 
 footer {
-  font-size: 15px;
+  font-size: 10px;
   min-height: 10px;
   background-color: #2d0097;
 }
