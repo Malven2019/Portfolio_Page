@@ -82,15 +82,15 @@ p {
 #contact {
   background: #fff;
   line-height: 150px;
-  border: 2px solid #90C695;
+  border: 2px solid #fff;
   border-radius: 100%;
   width: 150px;
   height: 150px;
 }
 
 footer {
-  font-size: 20px;
-  min-height: 50px;
+  font-size: 5px;
+  min-height: 4px;
   background-color: #2d0097;
 }
 
