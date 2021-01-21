@@ -1,10 +1,11 @@
-html,body {
-    background-color: #1e0e0a;
-    color: green;
-    font-family: monospace;
-  }
+html,
+body {
+  background-color: #2d0097;
+  color: green;
+  font-family: monospace;
+}
 
-#menue {
+#menu {
   text-align: right;
   position: fixed;
   width: 100%;
@@ -28,12 +29,12 @@ li {
 
 a {
   text-decoration: none;
-  color: green;
+  color: rgb(1, 11, 15);
 }
 
 img {
-  height: 50%;
-  width: 50%;
+  height: 10%;
+  width: 10%;
 }
 
 p {
@@ -93,7 +94,7 @@ footer {
   background-color: #292a51;
 }
 
-footer ul{
+footer ul {
   display: flex;
   margin: 10px 0 0 auto;
   width: 35vw;
