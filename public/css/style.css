@@ -45,6 +45,7 @@ p {
 #hello {
   top: 0;
   background: #f1f3f2;
+  font-size: 20px;
   min-height: 55vh;
   padding-top: 6vh;
   text-align: center;
